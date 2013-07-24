@@ -1,4 +1,2 @@
-p1
-==
-
-project 1
+well,
+create a project with symfony.
